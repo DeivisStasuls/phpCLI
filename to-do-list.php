@@ -37,7 +37,7 @@ do {
             echo showAllTask($taskList);
             break;
         case '3':
-            echo showTask($taskList);;
+            echo showTask($taskList);
             break;
         default:
         echo "Invalid option\n";                
